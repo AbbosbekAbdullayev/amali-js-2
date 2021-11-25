@@ -1,2 +1,4 @@
-var age = prompt("yongiz");
-console.log(age);
+var age = prompt("qo'ylaringiz soni");
+age=Number(age);
+console.log(age**2);
+
