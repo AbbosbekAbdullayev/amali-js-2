@@ -1,4 +1,5 @@
 var age = prompt("qo'ylaringiz soni");
-age=Number(age);
-console.log(age**2);
+// age=Number(age);
+// age=age-0;
+console.log(age);
 
