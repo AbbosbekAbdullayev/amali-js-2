@@ -1,5 +1,5 @@
 var son = prompt("qo'ylaringiz soni");
-// age=Number(age);
+son=Number(son);
 // age=age-0;
 ++son;
 ++son;
@@ -15,7 +15,7 @@ var son = prompt("qo'ylaringiz soni");
 --son;
 --son;
 --son;
-console.log(son);
+console.log(typeof son);
 
 
 
