@@ -67,5 +67,5 @@
 //     console.log("sizning yoshingiz yetarli emas")
 // }
 
-
-sdadadsaddasdasdsadsasaCSCSCSCSDCCDSCDSCDS
+C
+sdadadsaddasdasdsadsasaCSCSCSCSDCCDSCDSCDSCDS
