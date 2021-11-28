@@ -27,3 +27,7 @@
 // let arr = ['A','b', 'c', 'd','e'];
 // console.log(arr[son]+son*100000)+5
 // // console.log(son);
+let son;
+son = 10/13;
+console.log(son.toFixed(8))
+ 
