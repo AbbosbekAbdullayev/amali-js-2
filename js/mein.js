@@ -20,7 +20,7 @@
 // let matematik
 // matematik = Math.ceil(10.2);-tepaga ostiradi
 // matematik = Math.floor(10.2);-pasga yaxlitlaydi
-
+// matematik = Math.round(10.4); haqiyqi taqriban yaxlitlash
 console.log(matematik)
 
   
