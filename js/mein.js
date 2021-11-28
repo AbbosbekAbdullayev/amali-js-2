@@ -66,6 +66,6 @@
 // else{
 //     console.log("sizning yoshingiz yetarli emas")
 // }
-
+DSAD
 C
 sdadadsaddasdasdsadsasaCSCSCSCSDCCDASADSDADSADSADSCDSCDADASDASCDSDCDSCSSADSADDASSDADCSDSADASDDSADA
