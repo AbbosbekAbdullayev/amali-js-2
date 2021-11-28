@@ -66,3 +66,6 @@
 // else{
 //     console.log("sizning yoshingiz yetarli emas")
 // }
+
+
+sdada
