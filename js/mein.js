@@ -22,9 +22,12 @@
 //son = Math.floor(10.2);-pasga yaxlitlaydi
 //son = Math.round(10.4); haqiyqi taqriban yaxlitlash
 
-let son;
-son =Math.floor(Math.random()*100)
-console.log(son)
+son =Math.floor(Math.random()*5)
+
+let arr = ['A','b', 'c', 'd'];
+console.log(arr[son])
+console.log(son);
+
 
   
 
