@@ -18,9 +18,8 @@
 // console.log(typeof 15);
 
 // let matematik
-matematik = Math.ceil(10.2);-tepaga ostiradi
-
-
+// matematik = Math.ceil(10.2);-tepaga ostiradi
+// matematik = Math.floor(10.2);-pasga yaxlitlaydi
 
 console.log(matematik)
 
