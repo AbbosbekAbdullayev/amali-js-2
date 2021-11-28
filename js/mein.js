@@ -24,9 +24,9 @@
 
 son =Math.floor(Math.random()*5)
 
-let arr = ['A','b', 'c', 'd'];
-console.log(arr[son])
-console.log(son);
+let arr = ['A','b', 'c', 'd','e'];
+console.log(arr[son]+son*100000)+5
+// console.log(son);
 
 
   
