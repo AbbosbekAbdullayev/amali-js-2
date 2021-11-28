@@ -59,10 +59,10 @@
 
 // amali ishlash
 
-let yosh = prompt("yoshingizni kiriting");
-if(18<=yosh && ){
-    console.log("siz pasport ola olasiz")
-}
-else{
-    console.log("sizning yoshingiz yetarli emas")
-}
+// let yosh = prompt("yoshingizni kiriting");
+// if(18<=yosh && ){
+//     console.log("siz pasport ola olasiz")
+// }
+// else{
+//     console.log("sizning yoshingiz yetarli emas")
+// }
