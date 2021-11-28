@@ -18,8 +18,12 @@
 // console.log(typeof 15);
 
 // let matematik
-// matematik = Math.ceil(10.2);
-// console.log(matematik);
-console.log(typeof(15-2))-bu xato 
+matematik = Math.ceil(10.2);-tepaga ostiradi
+
+
+
+console.log(matematik)
+
+  
 
 
