@@ -60,7 +60,7 @@
 // amali ishlash
 
 let yosh = prompt("yoshingizni kiriting");
-if(18<=yosh){
+if(18<=yosh && ){
     console.log("siz pasport ola olasiz")
 }
 else{
