@@ -17,11 +17,14 @@
 // --son;
 // console.log(typeof 15);
 
-// let matematik
-// matematik = Math.ceil(10.2);-tepaga ostiradi
-// matematik = Math.floor(10.2);-pasga yaxlitlaydi
-// matematik = Math.round(10.4); haqiyqi taqriban yaxlitlash
-console.log(matematik)
+// let son
+//son = Math.ceil(10.2);-tepaga ostiradi
+//son = Math.floor(10.2);-pasga yaxlitlaydi
+//son = Math.round(10.4); haqiyqi taqriban yaxlitlash
+
+let son;
+son =Math.floor(Math.random()*100)
+console.log(son)
 
   
 
