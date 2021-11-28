@@ -59,9 +59,10 @@
 
 // amali ishlash
 
-if(10 > 20){
-    console.log('sizning javobingiz togri')
+let yosh = prompt("yoshingizni kiriting");
+if(18<=yosh){
+    console.log("siz pasport ola olasiz")
 }
 else{
-    console.log('siz xato yechdingiz')
+    console.log("sizning yoshingiz yetarli emas")
 }
