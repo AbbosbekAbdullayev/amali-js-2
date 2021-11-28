@@ -29,5 +29,5 @@
 // // console.log(son);
 let son;
 son = 10/13;
-console.log(son.toFixed(8))
+console.log(Number(son.toFixed(3)))
  
