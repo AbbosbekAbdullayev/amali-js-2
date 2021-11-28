@@ -27,10 +27,3 @@
 // let arr = ['A','b', 'c', 'd','e'];
 // console.log(arr[son]+son*100000)+5
 // // console.log(son);
-
-qabaassscssdscdcdcscscscdscdcds
-cxcdseqwqweweqcdcfwfwedzcdxffezxzxzscdsdscdscdscdc
-dscdsddsasaeqwewqdfffdasssadsadcdscdsdaaaadccdscdscdscdscdscdscdscdscdc
-  sadssqweqqwasadsacdsdscdsccdscsscds
-
-eqwewq
