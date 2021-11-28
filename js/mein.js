@@ -35,4 +35,21 @@
 
 // if else da ishlash
  
-if()
+// if(folse) {
+//     //agar qavs ichida qolga tutib boladigan qiymat bolsa  yoki true bolsa shu jingalak qavs amalga oshadi
+
+// }
+
+
+// else {
+//     //aks holda yuqoridagi qavs ichi false bolsa shu jingalak qavs ichi amalga oshadi
+    
+
+// }
+if (false){
+    console.log('shart amalga oshdi')
+}
+else{
+    console.log('ikkinchi qisim ishga tushdi')
+}
+console.log('oxirgi qism')
