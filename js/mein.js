@@ -17,8 +17,9 @@
 // --son;
 // console.log(typeof 15);
 
-let matematik
-matematik = Math.ceil(10.2);
-console.log(matematik);
+// let matematik
+// matematik = Math.ceil(10.2);
+// console.log(matematik);
+console.log(typeof(15-2))-bu xato 
 
 
