@@ -45,11 +45,23 @@
 //     //aks holda yuqoridagi qavs ichi false bolsa shu jingalak qavs ichi amalga oshadi
     
 
+// // }
+// if (false){
+//     console.log('shart amalga oshdi')
 // }
-if (false){
-    console.log('shart amalga oshdi')
+// else{
+//     console.log('ikkinchi qisim ishga tushdi')
+// }
+// console.log('oxirgi qism');
+
+
+
+
+// amali ishlash
+
+if(10 > 20){
+    console.log('sizning javobingiz togri')
 }
 else{
-    console.log('ikkinchi qisim ishga tushdi')
+    console.log('siz xato yechdingiz')
 }
-console.log('oxirgi qism')
