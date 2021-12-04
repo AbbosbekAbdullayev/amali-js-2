@@ -68,15 +68,19 @@
 // }
 
 
-let person = {
-    name:'abbos' ,
-    age:19 ,
-    familiya:'abdullayev',
-}
-console.log(person)
+// obect ishlatish
 
 
+// let person = {
+//     name:'abbos' ,
+//     age:19 ,
+//     familiya:'abdullayev',
+// }
+// console.log(person)
 
+//array
+// let arr = ['abbos' , 'abdullayev' ,'18yosh']
+// console.log(arr);
 
 
 
