@@ -68,11 +68,15 @@
 // }
 
 
+let person = {
+    name:'abbos' ,
+    age:19 ,
+    familiya:'abdullayev',
+}
+console.log(person)
 
 
 
-let age = 19;// data taype 
-let myName = "samar" //sting
 
 
 
