@@ -66,3 +66,13 @@
 // else{
 //     console.log("sizning yoshingiz yetarli emas")
 // }
+
+
+
+
+
+let age = 19;// data taype 
+let myName = "samar" //sting
+
+
+
